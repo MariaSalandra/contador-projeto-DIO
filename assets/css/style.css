@@ -9,7 +9,18 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: rgb(177, 225, 255);
+    background-image: url(../image/running.jpg);
+    background-position: center;
+}
+
+body p {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+#currentNumber {
+    font-weight: bold;
 }
 
 button {
