@@ -4,5 +4,5 @@
 
 Nos foi sugerido fazer algumas incrementações. Eu optei por realizar a mudança das cores dos números quando os mesmos fossem positivos ou negativos.
 
-![Sem título](C:\workspace\Dev\JAVASCRIPT\DIO\assets\image\Sem título.jpg)
+
 
